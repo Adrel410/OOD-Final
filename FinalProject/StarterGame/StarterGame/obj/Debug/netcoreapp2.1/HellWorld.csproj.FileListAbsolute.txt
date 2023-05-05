@@ -1,0 +1,24 @@
+C:\Users\adeol\Desktop\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.deps.json
+C:\Users\adeol\Desktop\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.runtimeconfig.json
+C:\Users\adeol\Desktop\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.runtimeconfig.dev.json
+C:\Users\adeol\Desktop\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.dll
+C:\Users\adeol\Desktop\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.pdb
+C:\Users\adeol\Desktop\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.AssemblyInfoInputs.cache
+C:\Users\adeol\Desktop\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.AssemblyInfo.cs
+C:\Users\adeol\Desktop\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.csproj.CoreCompileInputs.cache
+C:\Users\adeol\Desktop\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.dll
+C:\Users\adeol\Desktop\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.pdb
+C:\Users\adeol\Desktop\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.genruntimeconfig.cache
+C:\Users\adeol\Desktop\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.csprojAssemblyReference.cache
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.deps.json
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.runtimeconfig.json
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.runtimeconfig.dev.json
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.dll
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\HellWorld.pdb
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.csprojAssemblyReference.cache
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.AssemblyInfoInputs.cache
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.AssemblyInfo.cs
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.csproj.CoreCompileInputs.cache
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.dll
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.pdb
+C:\Users\adeol\Desktop\adeola ogundipe\Spring2023\FinalProject\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\HellWorld.genruntimeconfig.cache
